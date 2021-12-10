@@ -1,11 +1,11 @@
 # MAGDProjectsDan
-Project 2 Sourcecode: 
+_Project 2 Sourcecode:_ 
 https://github.com/OReilleyDJ05/MAGDProjectsDan/tree/gh-pages/f21magd150lab02_O'Reilley
-Project 3 Sourcecode: 
+_Project 3 Sourcecode:_ 
 https://github.com/OReilleyDJ05/MAGDProjectsDan/tree/gh-pages/f21magd150lab03_O'Reilley
-Project 4 Sourcecode: 
+_Project 4 Sourcecode:_ 
 https://github.com/OReilleyDJ05/MAGDProjectsDan/tree/gh-pages/f21magd150lab04_OReilley
-Project 5 Sourcecode: 
+_Project 5 Sourcecode:_ 
 https://github.com/OReilleyDJ05/MAGDProjectsDan/tree/gh-pages/f21magd150lab05_O'Reilley
-Project 6 Sourcecode: 
+_Project 6 Sourcecode:_ 
 https://github.com/OReilleyDJ05/MAGDProjectsDan/tree/gh-pages/f21magd150lab06_O'Reilley
